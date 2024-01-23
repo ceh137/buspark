@@ -38,7 +38,9 @@ Considering that right swipes were clearly more frequent -  this was a huge impr
 5. Submit
 
 #### Check it out, there is a video of it working
-[![Youtube video](http://img.youtube.com/vi/CpLm8BBhuoQ/0.jpg)](http://www.youtube.com/watch?v=CpLm8BBhuoQ)
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=YOUTUBE_VIDEO_ID_HERE
+" target="_blank"><img src="http://img.youtube.com/vi/CpLm8BBhuoQ/1.jpg" 
+alt="You tube video" width="700" height="500" border="1" /></a>
 
 **Tech Stack**
 - Laravel
